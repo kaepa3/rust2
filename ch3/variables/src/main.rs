@@ -3,4 +3,7 @@ fn main() {
     let x = x+1;
     let x = x*2;
     println!("the value of x is: {}", x);
+
+    let spaces = "    ";
+    let spaces = spaces.len();
 }
